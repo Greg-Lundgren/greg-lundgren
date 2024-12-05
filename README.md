@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @greg-lundgren
+- 👋 Hi, I’m @Greg-Lundgren
 - 👀 I’m interested in software engineering, dogs and video games.
 - 🌱 I’m currently learning React and TypeScript
 - 💞️ I’m looking to collaborate on ...
